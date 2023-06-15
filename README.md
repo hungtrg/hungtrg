@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hgtrg</h1>
 <h3 align="center">A backend developer based in Vietnam. Welcome to my GitHub profile!</h3>
 
+- ⚡ I’m currently a senior student at FPT University.
+
+- 🌱 I’m currently training to becoming a Business Analyst.
+
+- 💬 Aside from that, I enjoy developing personal projects in my spare time.
+
+- 📫 Contact me at: hungjt46@gmail.com
+
+- ⚡ Fun fact: ***I'm not Yugi, but I'm capable of play all kind of game 👋**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
